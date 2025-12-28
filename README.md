@@ -81,6 +81,7 @@ src/
 │   └── 📄 store.js         # Store konfigürasyonu ve Persist ayarları
 ├── 📄 App.jsx              # Ana Layout
 └── 📄 main.jsx             # Provider ve PersistGate sarmalayıcıları
+```
 
 ## 🚀 Kurulum ve Çalıştırma
 1. Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
